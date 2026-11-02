@@ -1,0 +1,11 @@
+Poppins
+Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+The licence and its FAQ are available at https://openfontlicense.org (also https://scripts.sil.org/OFL).
+
+The poppins-*.woff files here are Latin-script subsets (Basic Latin, Latin-1, Latin Extended,
+Latin Extended Additional, common punctuation and arrows) of the Light (300), Regular (400),
+Medium (500) and Bold (700) weights, converted to WOFF. Text in other scripts falls back to
+the system font. If you redistribute the project publicly, include the full OFL.txt from the
+Poppins repository alongside these files.
